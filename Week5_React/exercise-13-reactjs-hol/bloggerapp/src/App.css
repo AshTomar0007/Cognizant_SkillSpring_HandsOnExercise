@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  margin-top: 40px;
+}
+
+.box {
+  width: 28%;
+  padding: 20px;
+  border-left: 4px solid green;
+  text-align: left;
+}
+
+.box h1 {
+  margin-bottom: 20px;
+}
+
+.box h2,
+.box h3,
+.box h4,
+.box p {
+  margin: 8px 0;
+}
