@@ -1,1 +1,2 @@
 Git Branching Exercise
+This file was edited in GitNewBranch.
